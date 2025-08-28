@@ -72,6 +72,7 @@ Curated list of development tools and services, prioritizing free or low-cost op
 - [ChatGPT](https://chat.openai.com/) - General-purpose AI for Q&A and code.
 - [Claude](https://claude.ai/) - Conversational AI for complex tasks.
 - [Deepseek](https://www.deepseek.com/) - Efficient code generation.
+- [Copilot](https://github.com/features/copilot/) - AI-powered code completion.
 - [Tabnine](https://www.tabnine.com/) - Privacy-friendly code completion.
 
 ## 📊 Content & Design
@@ -99,14 +100,14 @@ Curated list of development tools and services, prioritizing free or low-cost op
 
 - 🟢 [Resend](https://resend.com/) - Simple email API for developers.
 - 🟢 [Cloudflare Email Routing](https://www.cloudflare.com/products/email-routing/) - Free email forwarding.
-- 🟡 [SendGrid](https://sendgrid.com/) 🟡 - 100 free emails/month for automation.
+- 🟡 [SendGrid](https://sendgrid.com/) - 100 free emails/month for automation.
 
 ### Web Analytics
 
 - 🟢 [Google Analytics](https://analytics.google.com/) - Comprehensive website analytics.
 - 🟢 [Openpanel](https://www.openpanel.io/) - Lightweight analytics tool.
 - 🟢 [PostHog](https://posthog.com/) - Open-source analytics platform.
-- 🟡 [Plausible](https://plausible.io/) 🟡 (free trial) - Privacy-friendly, lightweight analytics.
+- 🟡 [Plausible](https://plausible.io/) - Privacy-friendly, lightweight analytics.
 
 ### SEO Tools
 
