@@ -22,7 +22,6 @@ Curated list of development tools and services, prioritizing free or low-cost op
 - 🟡 [Supabase](https://supabase.com/) - Open-source PostgreSQL with authentication and real-time features.
 - 🟡 [Turso](https://www.turso.io/) - Lightweight SQLite for edge computing.
 - 🟡 [Neon](https://neon.com/) - Serverless PostgreSQL, highly scalable.
-- 🟡 [PlanetScale](https://planetscale.com/) - MySQL-compatible, ideal for high-concurrency apps.
 
 ### Authentication
 
@@ -36,15 +35,14 @@ Curated list of development tools and services, prioritizing free or low-cost op
 
 ### Storage
 
-- [Cloudflare R2](https://developers.cloudflare.com/r2/) 🟢 - S3-compatible, generous free tier.
-- 🟡 [Backblaze B2](https://www.backblaze.com/b2) - Cost-effective for large files.
+- 🟢 [Cloudflare R2](https://developers.cloudflare.com/r2/)
 
 ## 🚀 Deployment & Monitoring
 
 ### Deployment Platforms
 
+- 🟢 [Cloudflare](https://cloudflare.com/) - Global CDN with edge computing, supports static sites and serverless functions.
 - 🟢 [Vercel](https://vercel.com/) - Top choice for frontend, seamless integration.
-- 🟢 [Cloudflare Pages](https://pages.cloudflare.com/) - Fast static site hosting.
 - 🟢 [Render](https://render.com/) - Supports static sites and backend services.
 - 🟢 [Netlify](https://www.netlify.com/) - Ideal for JAMstack projects.
 
