@@ -11,10 +11,6 @@ Curated list of development tools and services, prioritizing free or low-cost op
 - [Regery](https://www.regery.com/) - User-friendly, supports multiple extensions.
 - [Namecheap](https://www.namecheap.com/) - Free Whois privacy, budget-friendly.
 
-### DNS Resolution
-
-- 🟢 [Cloudflare](https://www.cloudflare.com/) - Fast DNS, free DDoS protection and WAF.
-
 ## 🛠️ Core Development Services
 
 ### Databases
