@@ -19,15 +19,19 @@ Curated list of development tools and services, prioritizing free or low-cost op
 - 🟡 [Turso](https://www.turso.io/) - Lightweight SQLite for edge computing.
 - 🟡 [Neon](https://neon.com/) - Serverless PostgreSQL, highly scalable.
 
+### Caching
+
+- 🟡 [Upstash](https://upstash.com/) - Serverless Redis and Kafka for lightweight projects.
+
+### Messaging
+
+- 🟡 [CloudAMQP](https://www.cloudamqp.com/) - Managed RabbitMQ, free tier with limited resources for message queues.
+
 ### Authentication
 
 - 🟡 [Supabase](https://supabase.com/) - Integrated, easy-to-use authentication.
 - 🟡 [Clerk](https://clerk.dev/) - Modern auth with rich UI components.
 - 🟡 [Auth0](https://auth0.com/) - Robust, supports 7,000 active users.
-
-### Caching
-
-- 🟡 [Upstash](https://upstash.com/) - Serverless Redis and Kafka for lightweight projects.
 
 ### Storage
 
